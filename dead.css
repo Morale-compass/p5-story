@@ -1,0 +1,13 @@
+body {
+	background-color: grey;
+}
+
+.myDiv {
+	color: red;
+	width: 50%;
+	margin: 200px auto;
+	font-size: 100px;
+	font-weight: bolder;
+	text-align: center;
+	padding: 10px;
+}
